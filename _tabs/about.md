@@ -4,6 +4,10 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+![Desktop View](assets/img/avatars/Eero_original.jpg){: w="200" h="200" }{: .normal}
+
+
+
 ## Hi! 👋
 My name is Eero Nurmi.
 
