@@ -3,6 +3,7 @@ title: Computational Engineering with PicoGK (part 1)
 description: Starting my journey with PicoGK
 author: eero
 date: 2024-12-29 22:36:00 +0200
+updated: 2025-01-02 21:44:00 +0200
 categories: [Computational Engineering]
 tags: [C#, CEM, engineering, PicoGK]
 pin: true
