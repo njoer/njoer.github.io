@@ -35,7 +35,7 @@ What I love about the book is that Lin teaches fundamental programming concepts 
 
 
 ### Chapters 1-7
-Chapters from 1 to 7 cover programming concepts to get the necessary knowledge before using PicoGK. The topics cover object-oriented programming topics such as information hiding, polymorphism and inheritance.
+Chapters from 1 to 7 cover programming concepts to get the necessary knowledge before using PicoGK. The topics cover object-oriented programming topics such as information hiding, polymorphism and inheritance. Interfaces are also covered.
 
 
 
