@@ -9,3 +9,5 @@
 
 This project is published under [MIT License][license].
 
+
+[license]:https://opensource.org/license/mit
